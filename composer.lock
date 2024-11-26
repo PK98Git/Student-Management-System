@@ -399,7 +399,7 @@
                 "php-http/httplug": "^1.0 || ^2.0",
                 "php-http/message-factory": "^1.0",
                 "phpspec/phpspec": "^5.1 || ^6.1 || ^7.3",
-                "symfony/phpunit-bridge": "^6.2"
+                "/phpunit-bridge": "^6.2"
             },
             "type": "composer-plugin",
             "extra": {
@@ -945,7 +945,7 @@
             "time": "2021-05-03T11:20:27+00:00"
         },
         {
-            "name": "symfony/deprecation-contracts",
+            "name": "/deprecation-contracts",
             "version": "v3.3.0",
             "source": {
                 "type": "git",
@@ -1013,7 +1013,7 @@
         },
         {
             "name": "symfony/http-client",
-            "version": "v6.3.1",
+            "version": "v6.4.15",
             "source": {
                 "type": "git",
                 "url": "https://github.com/symfony/http-client.git",
